@@ -101,7 +101,8 @@ The output will be a dictionary like the following:
 
 And the Terminal should be like this: 
 
-![SmartScraphGraph](SmartScraperGraph.png)
+/Users/orangecloud/Documents/OBSIDIAN/DATA_EXTRACTION_PROJECTS/Scrapegraph-ai/example_scripts/SmartScraperGraph.png
+
 
 There are other pipelines that can be used to extract information from multiple pages, generate Python scripts, or even generate audio files.
 
