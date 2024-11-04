@@ -98,6 +98,11 @@ The output will be a dictionary like the following:
     "contact_email": "contact@scrapegraphai.com"
 }
 ```
+
+And the Terminal should be like this: 
+
+![SmartScraphGraph](SmartScraperGraph.png)
+
 There are other pipelines that can be used to extract information from multiple pages, generate Python scripts, or even generate audio files.
 
 | Pipeline Name           | Description                                                                                                      |
